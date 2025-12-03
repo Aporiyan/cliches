@@ -15,7 +15,7 @@
 ### 📝 使用方法
 
 文档使用带有LaTeX数学符号的Markdown编写。可以：
-- 直接在GitHub上阅读
+- 直接在GitHub上阅读（可能有一部分内容会无法正确渲染，不推荐）
 - 下载并使用Markdown预览软件进行查看
   
 ---
@@ -38,4 +38,5 @@ Update randomly.
 
 The documents are written in Markdown with LaTeX mathematical symbols. They can be:
 - Read directly on GitHub
-- Downloaded and viewed using a Markdown preview software
+- Downloaded and viewed using a Markdown preview software(Some content may not be rendered correctly, not recommended)
+
