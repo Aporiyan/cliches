@@ -44,7 +44,7 @@ $$
 *Proof:* For any strategy $s_j \in \{C, D\}$ of the opponent:
 - If $s_j = C$: $u_i(D, C) = T > R = u_i(C, C)$.
 - If $s_j = D$: $u_i(D, D) = P > S = u_i(C, D)$.
-Thus, $u_i(D, s_j) > u_i(C, s_j)$ for all $s_j$. $\square$
+Thus, $u_i(D, s_j) > u_i(C, s_j)$ for all $s_j$.
 
 **Corollary 1.1:** The strategy profile $(D, D)$ is the **unique pure-strategy Nash Equilibrium (PSNE)**。
 
