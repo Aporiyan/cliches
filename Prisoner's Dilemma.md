@@ -155,4 +155,4 @@ The Prisoner's Dilemma provides a foundational framework for analyzing strategic
 > [!NOTE]
 >All the content written above lacks academic rigor and is not intended for academic reference. It is merely a practice test for writing markdown articles. Please exercise caution when interpreting any academic knowledge mentioned in the article, as it may (and is likely) be incorrect.
 >
->Even this note was translated using AI. If there are any grammatical errors or issues, I apologize sincerely.:worried:
+>Even this note was translated using AI. If there are any grammatical errors or issues, I apologize sincerely.🥺
