@@ -3,13 +3,13 @@ Game Theory Article Collection
 
 <div align="center">
 
-[English Version](#english) | [中文版本](#chinese)
+[English Version](#english-version) | [中文版本](#中文版本-1)
 
 </div>
 
 ---
 
-## English Version {#english}
+## English Version
 
 ### 📚 Repository Overview
 
@@ -33,7 +33,7 @@ The documents are written in Markdown with LaTeX mathematical symbols. They can 
 
 ---
 
-## 中文版本 {#chinese}
+## 中文版本
 
 ### 📚 仓库概述
 
@@ -54,3 +54,12 @@ The documents are written in Markdown with LaTeX mathematical symbols. They can 
 文档使用带有LaTeX数学符号的Markdown编写。可以：
 - 直接在GitHub上阅读
 - 下载并使用Markdown预览软件进行查看
+
+---
+
+<div align="center">
+
+**最后更新**: 2024年1月  
+**作者**: [你的用户名]
+
+</div>
