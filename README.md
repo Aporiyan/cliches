@@ -1,9 +1,9 @@
-# 这只是一个个人文章集合
-This is just an individual
+# 博弈论文章集合
+Game Theory Article Collection
 
 <div align="center">
 
-[English](#english) | [中文](#chinese)
+[English Version](#english) | [中文版本](#chinese)
 
 </div>
 
@@ -13,7 +13,7 @@ This is just an individual
 
 ### 📚 Repository Overview
 
-This repository is merely a space for storing articles for my own amusement
+This repository is merely a space for storing articles for my own amusement.
 
 ### 📂 Current Contents
 
@@ -23,13 +23,14 @@ This repository is merely a space for storing articles for my own amusement
 
 ### 🚀 Future Additions
 
-Update randomly
+Update randomly.
 
 ### 📝 Usage
 
-The document may be written in Markdown with LaTeX mathematical symbols. They can be:
+The documents are written in Markdown with LaTeX mathematical symbols. They can be:
 - Read directly on GitHub
-- Download and view it using a Markdown preview software
+- Downloaded and viewed using a Markdown preview software
+
 ---
 
 ## 中文版本 {#chinese}
@@ -46,10 +47,10 @@ The document may be written in Markdown with LaTeX mathematical symbols. They ca
 
 ### 🚀 未来更新计划
 
-随缘更新
+随缘更新。
 
 ### 📝 使用方法
 
-文档可能会使用带有LaTeX数学符号的Markdown编写。可以：
+文档使用带有LaTeX数学符号的Markdown编写。可以：
 - 直接在GitHub上阅读
 - 下载并使用Markdown预览软件进行查看
