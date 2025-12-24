@@ -37,6 +37,6 @@ Update randomly.
 ### 📝 Usage
 
 The documents are written in Markdown with LaTeX mathematical symbols. They can be:
-- Read directly on GitHub
-- Downloaded and viewed using a Markdown preview software(Some content may not be rendered correctly, not recommended)
+- Read directly on GitHub(Some content may not be rendered correctly, not recommended)
+- Downloaded and viewed using a Markdown preview software
 
